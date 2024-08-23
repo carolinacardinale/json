@@ -1,0 +1,13 @@
+{
+    "nome": "Lucas",
+    "idade": 22,
+    "cursos": [
+      "Matemática",
+      "Física"
+    ],
+    "endereço": {
+      "rua": "Rua das Laranjeiras",
+      "número": 101
+    }
+  }
+  
